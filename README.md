@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I’m a programmer enthusiastic about technology a
 ## 📦 Featured Projects
 
 - [Intro-to-C](https://github.com/sparsh41/Intro-to-C) — Foundational C programming exercises.
-- [02-final-sp25-sparsh41](https://github.com/FL-Poly/02-final-sp25-sparsh41) — Final project for FL-Poly.
+- [02-final-sp25-sparsh41](https://github.com/FL-Poly/02-final-sp25-sparsh41) — Final project for FL-Poly Intro to C.
 - [inclass04-library-sparsh41](https://github.com/FL-Poly/inclass04-library-sparsh41) — Library management system for coursework.
 - [hw6-sp25-2-sparsh41](https://github.com/FL-Poly/hw6-sp25-2-sparsh41) — Homework on advanced programming concepts.
 - [inclass03-isvalidstring-sparsh41](https://github.com/FL-Poly/inclass03-isvalidstring-sparsh41) — Classroom string validation tools.
@@ -25,7 +25,7 @@ Welcome to my GitHub profile! I’m a programmer enthusiastic about technology a
 
 ## 🛠️ Skills & Tools
 
-- Programming: C, Python, JavaScript
+- Programming: C/C++, Python
 - Tools: Git, VS Code, Linux
 - Interests: Problem solving, software engineering, open source
 

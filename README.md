@@ -1,6 +1,6 @@
 # 👋 Hi there! I’m Sparsh
 
-Welcome to my GitHub profile! I’m a programmer enthusiastic about technology and tackling challenging problems. I enjoy working with C and Python, contribute regularly to course projects, and am always eager to learn more about software development.
+Welcome to my GitHub profile! I’m a programmer enthusiastic about technology and tackling challenging problems. I enjoy working with C/C++ and Python, contribute regularly to course projects, and am always eager to learn more about software development.
 
 ---
 
@@ -15,6 +15,7 @@ Welcome to my GitHub profile! I’m a programmer enthusiastic about technology a
 
 ## 📦 Featured Projects
 
+- [Data-Structures](https://github.com/sparsh41/Data-Structures) — Programming for COP 3415 - Data Structures
 - [Intro-to-C](https://github.com/sparsh41/Intro-to-C) — Foundational C programming exercises.
 - [02-final-sp25-sparsh41](https://github.com/FL-Poly/02-final-sp25-sparsh41) — Final project for FL-Poly Intro to C.
 - [inclass04-library-sparsh41](https://github.com/FL-Poly/inclass04-library-sparsh41) — Library management system for coursework.

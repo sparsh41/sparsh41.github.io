@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile.
 
-I’m a programmer who enjoys solving challenging problems and building practical projects. Most of my work focuses on C/C++ and Python, with a strong interest in algorithms, data structures, and software engineering fundamentals.
+I’m a programmer who enjoys solving challenging problems and building practical projects. Most of my work focuses on C/C++ and Python, with a strong interest in AI, Machine Learning algorithms, data structures, and software engineering fundamentals.
 
 ## 🚀 About Me
 

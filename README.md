@@ -17,10 +17,7 @@ Welcome to my GitHub profile! I’m a programmer enthusiastic about technology a
 
 - [Data-Structures](https://github.com/sparsh41/Data-Structures) — Programming for COP 3415 - Data Structures
 - [Intro-to-C](https://github.com/sparsh41/Intro-to-C) — Foundational C programming exercises.
-- [02-final-sp25-sparsh41](https://github.com/FL-Poly/02-final-sp25-sparsh41) — Final project for FL-Poly Intro to C.
-- [inclass04-library-sparsh41](https://github.com/FL-Poly/inclass04-library-sparsh41) — Library management system for coursework.
-- [hw6-sp25-2-sparsh41](https://github.com/FL-Poly/hw6-sp25-2-sparsh41) — Homework on advanced programming concepts.
-- [inclass03-isvalidstring-sparsh41](https://github.com/FL-Poly/inclass03-isvalidstring-sparsh41) — Classroom string validation tools.
+- [AIRC Projects](https://github.com/sparsh41/AI-Research-Projects) - Small AI/Computer Vision Projects for AIRC
 
 ---
 

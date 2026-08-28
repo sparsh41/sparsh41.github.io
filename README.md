@@ -1,38 +1,30 @@
-# 👋 Hi there! I’m Sparsh
+# Hey, I’m Sparsh 👋
 
-Welcome to my GitHub profile! I’m a programmer enthusiastic about technology and tackling challenging problems. I enjoy working with C/C++ and Python, contribute regularly to course projects, and am always eager to learn more about software development.
+Welcome to my GitHub profile.
 
----
+I’m a programmer who enjoys solving challenging problems and building practical projects. Most of my work focuses on C/C++ and Python, with a strong interest in algorithms, data structures, and software engineering fundamentals.
 
 ## 🚀 About Me
 
-- 🧑‍💻 Focused on building projects and learning in C, Python, and other languages.
-- 📚 Enjoy working with algorithms, data structures, and creating full-stack solutions.
-- 🎓 Contributor to FL-Poly course projects, including library systems and string validation utilities.
-- 🌱 Committed to continuous learning and open-source collaboration.
+- 🧑‍💻 Building and learning through hands-on projects
+- 📚 Interested in algorithms, data structures, and full-stack development
+- 🎓 Contributing to FL-Poly course projects, including library systems and validation tools
+- 🌱 Always learning and exploring open-source collaboration
 
----
+## 📌 Featured Projects
 
-## 📦 Featured Projects
-
-- [Data-Structures](https://github.com/sparsh41/Data-Structures) — Programming for COP 3415 - Data Structures
-- [Intro-to-C](https://github.com/sparsh41/Intro-to-C) — Foundational C programming exercises.
-- [AIRC Projects](https://github.com/sparsh41/AI-Research-Projects) - Small AI/Computer Vision Projects for AIRC
-
----
+- [Data-Structures](https://github.com/sparsh41/Data-Structures) — COP 3415 coursework and implementations
+- [Intro-to-C](https://github.com/sparsh41/Intro-to-C) — foundational C programming exercises
+- [AI-Research-Projects](https://github.com/sparsh41/AI-Research-Projects) — small AI and computer vision projects for AIRC
 
 ## 🛠️ Skills & Tools
 
-- Programming: C/C++, Python
-- Tools: Git, VS Code, Linux
-- Interests: Problem solving, software engineering, open source
-
----
+- **Languages:** C/C++, Python
+- **Tools:** Git, VS Code, Linux
+- **Interests:** Problem solving, software engineering, open source
 
 ## 📫 Connect
 
-Feel free to explore my repositories, open issues, or reach out!
-
----
+Feel free to explore my repositories, open an issue, or reach out.
 
 ![Sparsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sparsh41&show_icons=true&hide_title=true&count_private=true&theme=radical)

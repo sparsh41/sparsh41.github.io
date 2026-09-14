@@ -13,9 +13,11 @@ I’m a programmer who enjoys solving challenging problems and building practica
 
 ## 📌 Featured Projects
 
+- [AI-Research-Projects](https://github.com/sparsh41/AI-Research-Projects) — small AI and computer vision projects for AIRC
+- [Quantum-Computing](https://github.com/sparsh41/Quantum-Computing) - Code for Quantum Circuits and Pulses
 - [Data-Structures](https://github.com/sparsh41/Data-Structures) — COP 3415 coursework and implementations
 - [Intro-to-C](https://github.com/sparsh41/Intro-to-C) — foundational C programming exercises
-- [AI-Research-Projects](https://github.com/sparsh41/AI-Research-Projects) — small AI and computer vision projects for AIRC
+
 
 ## 🛠️ Skills & Tools
 
